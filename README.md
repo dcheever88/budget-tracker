@@ -15,4 +15,4 @@ Application is deployed at https://dc88budgettracker.herokuapp.com/
 
 ## App Image
 
-! (![image](https://user-images.githubusercontent.com/78058224/125221394-cb0fab80-e28d-11eb-8e1e-2612a6e226d7.png)
+![image](https://user-images.githubusercontent.com/78058224/125221394-cb0fab80-e28d-11eb-8e1e-2612a6e226d7.png)
