@@ -12,7 +12,8 @@ const FILES_TO_CACHE = [
     "./icons/icon-192x192.png",
     "./icons/icon-384x384.png",
     "./icons/icon-512x512.png",
-    "./manifest.json"
+    "./manifest.json",
+    "./api/transaction"
 ];
 
 const APP_PREFIX = 'BudgetTracker-';
@@ -29,7 +30,7 @@ self.addEventListener('install', function (e) {
     )
 })
 
-self.addEventListener('active', function(e) {
+self.addEventListener('activate', function(e) {
     e.waitUntil(
         caches.keys().then(function(keyList) {
             let cacheKeepList = keyList.filter(function (key) {
