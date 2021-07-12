@@ -1,7 +1,7 @@
 # budget-tracker
 (Budget Tracker with Offline Functionality)
 
-This is a simple budget tracking application that allows users to keep track of a budget and transactions. Users can add or subtract funds.
+This is a simple budget tracking application that allows users to keep track of a budget and transactions. Users can add or subtract funds, whether or not they have an internet connection. Offline updates are added to the web database when the user re-connects with internet.
 
 ## User Story
 
