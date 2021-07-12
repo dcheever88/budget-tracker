@@ -11,4 +11,4 @@ So that my account balance is accurate when I am traveling
 
 ## Usage
 
-Application is deployed at (https://dc88budgettracker.herokuapp.com/)
+Application is deployed at https://dc88budgettracker.herokuapp.com/
